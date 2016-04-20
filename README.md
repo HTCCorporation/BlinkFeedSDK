@@ -5,7 +5,7 @@ How to use this library
 
 1. Add following maven URL
 
-   "https://raw.githubusercontent.com/HTCCorporation/maven-repository/master"
+   "https://raw.githubusercontent.com/HTCCorporation/BlinkFeedSDK/master"
    
 2. Add following command to your build.gradle
 
