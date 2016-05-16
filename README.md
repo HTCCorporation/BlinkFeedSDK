@@ -10,3 +10,5 @@ How to use this library
 2. Add following command to your build.gradle
 
    compile "com.htc.blinkfeed:blinkfeedsdk:1.0.261233"
+
+3. 
